@@ -3,3 +3,5 @@ main logic
 fixing
 update
 Feature 1 change
+Feature 2 change
+Final realisation feature 2
